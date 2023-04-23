@@ -136,3 +136,4 @@ pretrained/
 MinkowskiEngine/
 mmdet3d/ops/rotated_iou/cuda_op/
 MinkowskiEngine/
+!docs/teaser.png
