@@ -2,7 +2,7 @@
 
 ![teaser](docs/teaser.png)
 
-This repository contains the official implementation of the proposed framework in [manuscript](https://arxiv.org/abs/xxxx.yyyyy).
+This repository contains the official implementation of the proposed framework in [manuscript](https://arxiv.org/abs/2304.13031).
 
 > **DQS3D: Densely-matched Quantization-aware Semi-supervised 3D Detection**
 >
