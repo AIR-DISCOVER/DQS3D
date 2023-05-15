@@ -17,9 +17,9 @@ This repository contains the official implementation of the proposed framework i
 
 ## Environment Preparation
 
-For installing the environment, we follow [FCAF3D](https://github.com/SamsungLabs/fcaf3d) and provide a [Dockerfile](docker/Dockerfile).
+For installing the environment, we follow [FCAF3D](https://github.com/SamsungLabs/fcaf3d), except that we use `pytorch==1.10.2+cu113`.
 
-Alternatively, you can install the environment manually by reading the instructions provided in the Dockerfile above. You can refer to installation guide of [FCAF3D](https://github.com/SamsungLabs/fcaf3d) for more details.
+We recommend that you install the environment manually by reading the instructions provided in the Dockerfile. You can refer to installation guide of [FCAF3D](https://github.com/SamsungLabs/fcaf3d) for more details.
 
 Most of the `DQS3D`-related code locates in the following files: 
 + [mmdet3d/datasets/semi_supervised_dataset.py](mmdet3d/datasets/semi_supervised_dataset.py)
