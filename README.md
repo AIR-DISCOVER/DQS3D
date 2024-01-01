@@ -84,13 +84,11 @@ You can download these models at [ [Google Drive](https://drive.google.com/drive
 ## Citation
 If you find this work useful for your research, please cite our paper:
 ```bibtex
-@misc{gao2023dqs3d,
-      title={DQS3D: Densely-matched Quantization-aware Semi-supervised 3D Detection}, 
-      author={Huan-ang Gao and Beiwen Tian and Pengfei Li and Hao Zhao and Guyue Zhou},
-      year={2023},
-      eprint={2304.13031},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{gao2023dqs3d,
+  title={DQS3D: Densely-matched Quantization-aware Semi-supervised 3D Detection},
+  author={Gao, Huan-ang and Tian, Beiwen and Li, Pengfei and Zhao, Hao and Zhou, Guyue},
+  journal={arXiv preprint arXiv:2304.13031},
+  year={2023}
 }
 ```
 
